@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Made a list check for countries.
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Made a game with an input field where you can check what you typed is a country or not.
+Issue: Raw image not showing up as null? (Wanted it to be empty if the flag isn't a part of resources.)
